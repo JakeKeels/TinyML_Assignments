@@ -1,0 +1,3 @@
+The LED flash is done by declaring the LED outputs, then looping through, and flashing the LED colors in a sort of order, by turning them on and off.
+The camera assignment was done by setting the correct settings for the camera, first setting it to Grayscale,
+next setting the scale of the image, then waiting a bit for the settings to go into place. Next, the program grabs the image from the Portenta, and displays it.
