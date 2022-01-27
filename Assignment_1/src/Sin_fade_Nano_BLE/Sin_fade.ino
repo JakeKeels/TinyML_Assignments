@@ -12,7 +12,7 @@ void setup() {
 // the loop routine runs over and over again forever:
 void loop() {
   //Resets loop if counter goes past a full circle
-  if(++degrees > 365){
+  if(++degrees > 360){
       degrees = 0;
     }
   //Converts degrees to radians, then into the sin wave.
