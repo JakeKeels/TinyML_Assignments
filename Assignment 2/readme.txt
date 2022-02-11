@@ -1,0 +1,3 @@
+The wave and fistbump data were captured using the IMU program, systematically doing the motions and transferring the output to a csv file for future processing.
+The audio data was captured with the BLE 33 program, with a similar output to the previous one, just for audio data, lowering the threshhold for the minumum sound level to make collection easier.
+The image data was captured with the portenta using the data set collection tool. Allowing the helloworld program to be used to collect all 150 images of the fruits needed.
